@@ -1,16 +1,95 @@
-# React + Vite
+# Mano S. — Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal portfolio showcasing my projects, technical skills, and journey in web development.
 
-Currently, two official plugins are available:
+🌐 **Live Portfolio:** https://mano-portfolio.onrender.com
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About
 
-## React Compiler
+I'm Mano S., a B.Tech graduate in Artificial Intelligence and Machine Learning, interested in full-stack web development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I enjoy exploring technologies, experimenting with ideas, and developing practical web applications through hands-on projects.
 
-## Expanding the ESLint configuration
+This portfolio highlights my technical skills, selected projects, and experience working with modern web technologies.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Tech Stack
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, VS Code
+- **Libraries:** Framer Motion, Lucide React
+
+## Featured Projects
+
+### 1. Questify — Task Management Application
+
+A productivity platform that helps users organize tasks, manage schedules, track progress, and build productive habits through daily challenges and achievements.
+
+- Technologies: React.js, Node.js, Express.js, MongoDB
+- [Live Demo](https://questify-frontend-rzdc.onrender.com)
+
+### 2. WeatherNow — Weather Forecast Application
+
+A weather application providing current weather conditions, temperature, humidity, wind speed, and a five-day forecast for cities around the world.
+
+- Technologies: React.js, Node.js, Express.js, WeatherAPI
+- [Live Demo](https://weather-now-hz5h.onrender.com)
+- [Source Code](https://github.com/MANOS-19/weather-now)
+
+### 3. Hinglish Sentiment Analyzer
+
+An NLP application that analyzes Hindi-English mixed text and classifies sentiment as positive, negative, or neutral using a multilingual AI model.
+
+- Technologies: Python, Hugging Face, Streamlit, NLP
+- [Live Demo](https://bolsense-frontend.onrender.com)
+
+## Portfolio Features
+
+- Responsive design for different screen sizes
+- Dark and light theme support
+- Dedicated sections for About, Skills, Projects, and Contact
+- Project previews with live application links
+- Smooth animations and navigation
+
+## Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/MANOS-19/mano-portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd mano-portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+## Contact
+
+- **GitHub:** https://github.com/MANOS-19
+- **LinkedIn:** https://www.linkedin.com/in/mano-sk
+- **Email:** manosk.techie@gmail.com
+
+---
+
+⭐ Thank you for visiting my portfolio!
