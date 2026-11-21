@@ -35,7 +35,6 @@ A weather application providing current weather conditions, temperature, humidit
 
 - Technologies: React.js, Node.js, Express.js, WeatherAPI
 - [Live Demo](https://weather-now-hz5h.onrender.com)
-- [Source Code](https://github.com/MANOS-19/weather-now)
 
 ### 3. Hinglish Sentiment Analyzer
 
